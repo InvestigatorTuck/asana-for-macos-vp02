@@ -1,4 +1,4 @@
-
+Enhance Asana for macOS with Asana for macOS smart Addon - reminders and goal tracking, the #1 addon. Includes reminders and goal tracking for a smoother experience.
 
 
 
